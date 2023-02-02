@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuVadym
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python, TensorFlow, Keras, PyTorch
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me kuzik94vadim@gmail.com; or @Kuzikv for telegram messenger
 
 <!---
